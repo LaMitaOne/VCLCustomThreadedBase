@@ -7,7 +7,7 @@ VCLCustomThreadedBase v1.0
           
 <img width="800" height="632" alt="Unbenannt" src="https://github.com/user-attachments/assets/d15524aa-b56b-47f7-a79a-e1902a5133a4" />
               
-yes really 937+ fps max i get here on a Ryzen 4500U using pure GDI. The mother of all threaded bases. On this one wi played around a few months, and now its...in everything i make almost basically. So Thought maybe someone wants the VCL version pure too.       
+yes really 937+ fps max i get here on a Ryzen 4500U using pure GDI. The mother of all threaded bases. On this one i played around a few months, and now its...in everything i make almost basically. So thought maybe someone wants the VCL version pure too.       
      
 This base class provides a robust, drop-in architecture for running tight rendering and logic loops entirely in the background. Proven over months in production environments (powering components like Flowmotion with 1500+ simultaneously animated images), it is the ultimate foundation for VCL applications requiring high-throughput visualizations, custom controls, or interactive tools without freezing the main thread.    
     
